@@ -44,6 +44,8 @@ nav{
     color: white;
     font-size: 2rem;
     font-weight: bold;
+    margin-top: 30px;
+   
 }
 .logo span{
     color: #e60685;
@@ -247,6 +249,7 @@ section{
         width: 50%;
         height: 60%;
         margin-bottom: 0px;
+        margin-top: 20px;
     }
     .main-container .content{
         width: 100%;
