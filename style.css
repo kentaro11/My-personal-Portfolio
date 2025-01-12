@@ -12,6 +12,8 @@ body {
     background: linear-gradient(45deg, rgb(59, 4, 4), rgb(4, 59, 4), rgb(24, 24, 63));
     background-size: 400% 400%;
     animation: gradientBackground 5s ease infinite;
+    overflow-y: auto;
+
 }
 
 @keyframes gradientBackground {
